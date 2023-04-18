@@ -1,5 +1,5 @@
- Rosanne Erpelo IT128L-FOPI01 BSIT
+Rosanne Erpelo IT128L-FOPI01 BSIT
  
- Lab Exercise 5
+Lab Exercise 5
  
- April 17, 2023
+April 17, 2023
